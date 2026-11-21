@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rewards Bot</string>
+    <string name="a11y_description">Permite ao Rewards Bot ler a tela do app do Bing e executar toques e rolagens para automatizar buscas na sua própria conta.</string>
+</resources>
